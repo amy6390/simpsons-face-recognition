@@ -6,11 +6,12 @@
 
 A ML project to train an EfficientNetB0 model to classify Simpsons characters.
 
-Installation
+## Installation
 Please run the following command to download this repository on your local machine:
 ```
 git commit https://github.com/amy6390/simpsons-face-recognition.git
 ```
+Please see the `references` folder for documentation.
 
 ## Project Organization
 
