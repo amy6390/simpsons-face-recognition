@@ -19,7 +19,7 @@ python -m modeling.dataset
 ```
 
 ## 4. Training the model
-An EfficientNetB0 model finetuned on this dataset over 25 epochs is already available in the `models` directoy. If you wish to train an EfficientNetB0 model with a different number of epochs, please run 
+An EfficientNetB0 model finetuned on this dataset over 25 epochs is already available in the `models` directory. If you wish to train an EfficientNetB0 model with a different number of epochs, please run 
 ```
 python -m simpsons_face_recognition.modeling.train --epochs {number of epochs}
 ```
