@@ -11,7 +11,7 @@ Please run the following command to download this repository on your local machi
 ```
 git commit https://github.com/amy6390/simpsons-face-recognition.git
 ```
-Please see the `references` folder for documentation.
+Please see the `docs` folder for documentation.
 
 ## Project Organization
 
