@@ -3,7 +3,7 @@
 ## 1. Installing the repository
 In order to get this repositoy on your local machine, please run the following command:
 ```
-git clone [link]
+git clone https://github.com/amy6390/simpsons-face-recognition.git
 ```
 
 ## 2. Downloading all requirements
