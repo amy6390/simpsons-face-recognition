@@ -57,4 +57,6 @@ Please see the `docs` folder for documentation.
 ```
 
 --------
+## Credits
+Training and testing data comes from https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset/
 
