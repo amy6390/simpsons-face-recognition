@@ -2,5 +2,5 @@
 
 ## Description
 
-a ML project to train an EfficientNetB0 model and custom TensorFlow model to classify Simpsons characters
+a ML project to train an EfficientNetB0 model to classify Simpsons characters
 
